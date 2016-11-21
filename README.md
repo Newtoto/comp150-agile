@@ -6,6 +6,7 @@ The question I will be addressing in this essay is "How can the daily stand-up b
 
 <h3>http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6226091/ - Chaos issues on communication in Agile Global Software Development:</h3>
 <p>
+<h4>Table I issues:</h4>
 <ul>
 <li>D lack of frequent face to face: This issue resulted in development team relying more on asynchronous communication as well as informal communication example using email because the right person is not available when it is needed </li>
 <li>G lack of commitment/teamwork: Sometimes problems do happened where team members only communicate with selected people in the team for example only communicate with the Software Architect, communication is affected because team members do not wish to contribute to communicate with each other. Lack of formal communication may also lead to lower team spirit </li>
@@ -16,6 +17,7 @@ The question I will be addressing in this essay is "How can the daily stand-up b
 <li>M poor communication infrastructure</li>
 </ul>
 
+<h4>The source's sources</h4>
 <ul>
 <li>31. I. Lehtonen, "Communication challenges in Agile global software development," University of Helsinki, Department of Computer Science, Faculty of Science, 2009.</li>
 <li>33. M. Korkala, M. Pikkarainen, and K. Conboy, "Distributed Agile development: a case study of customer communication challenges," in Agile Processes in Software Engineering and Extreme Programming, vol. 31, P. Abrahamsson, M. Marchesi, and F. Maurer, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2009, pp. 161-167.<li>
