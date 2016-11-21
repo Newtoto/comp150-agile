@@ -17,7 +17,7 @@ The question I will be addressing in this essay is "How can the daily stand-up b
 <li>M poor communication infrastructure</li>
 </ul>
 
-<h4>The source's sources</h4>
+<h4>The source's sources:</h4>
 <ul>
 <li>31. I. Lehtonen, "Communication challenges in Agile global software development," University of Helsinki, Department of Computer Science, Faculty of Science, 2009.</li>
 <li>33. M. Korkala, M. Pikkarainen, and K. Conboy, "Distributed Agile development: a case study of customer communication challenges," in Agile Processes in Software Engineering and Extreme Programming, vol. 31, P. Abrahamsson, M. Marchesi, and F. Maurer, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2009, pp. 161-167.<li>
