@@ -1,0 +1,12 @@
+[2] http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6226091/ - Chaos issues on communication in Agile Global Software Development:
+[3] http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7154962/ - Communication understandability enhancement in GSD
+[4] http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6681342/ - Obstacles to Efficient Daily Meetings in Agile Development Projects: A Case Study
+[5] K. Dullemond, B. van Gameren, and R. van Solingen, "How technological support can enable advantages of Agile software development in a GSE Setting," in Fourth IEEE International Conference on Global Software Engineering, 2009. ICGSE 2009, 2009, pp. 143-152.
+[6] S. Dorairaj, J. Noble, and P. Malik, "Effective communication in distributed Agile software development teams," in Agile Processes in Software Engineering and Extreme Programming, vol. 77, A. Sillitti, O. Hazzan, E. Bache, and X. Albaladejo, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2011, pp. 102-116.
+[7] J. Sauer, "Agile practices in offshore outsourcing - an analysis of published experiences," in Proceedings of the 29th Information Systems Research Seminar in Scandinavia, IRIS, vol. 29, pp. 12-15.
+[8] S. Lee and H-S. Yong, "Distributed Agile: project management in a global environment," Empirical Software Engineering, vol. 15, no. 2, pp. 204-217, 2010.
+[9] P. J. \AAgerfalk, B. Fitzgerald, and S. A. Slaughter, "Introduction to the special issue - flexible and distributed information systems development: state of the art and research challenges," Info. Sys. Research, vol. 20, pp. 317-328, Sep. 2009.
+[10] M. F. Nisar and T. Hameed, "Agile methods handling offshore software development issues," in Multitopic Conference, 2004. Proceedings of INMIC 2004. 8th International, 2004, pp. 417-422.
+[11] I. Lehtonen, "Communication challenges in Agile global software development," University of Helsinki, Department of Computer Science, Faculty of Science, 2009.
+[12]  E. Hossain, M. A. Babar, and Hye-young Paik, "Using Scrum in global software development: a systematic literature review," in Global Software Engineering, 2009. ICGSE 2009. Fourth IEEE International Conference on, 2009, pp. 175-1 84.
+
